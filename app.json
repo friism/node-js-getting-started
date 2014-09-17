@@ -7,5 +7,5 @@
   "formation": [
         { "process": "web",    "quantity": 1, "size": "1X" },
         { "process": "worker", "quantity": 1, "size": "1X" }
-    ],
+  ]
 }

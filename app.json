@@ -3,6 +3,7 @@
   "description": "A barebones Node.js app using Express 4",
   "repository": "https://github.com/heroku/node-js-getting-started",
   "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "addons": ["heroku-postgresql:standard-0"],
   "keywords": ["node", "express", "static"],
   "formation": [
         { "process": "web",    "quantity": 1, "size": "1X" },
